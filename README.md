@@ -1,2 +1,2 @@
 # specializedAnimalCare
-personal animal care website
+personal animal care website.
