@@ -171,8 +171,12 @@ p.copyright {
 }
 
 img {
-    padding-top: 60px;
+    padding-top: 10px;
     padding-bottom: 10px;
     width: 50%;
-    height:50%;
+    height: 50%;
+}
+
+h2 {
+    margin-top: 0px;
 }
